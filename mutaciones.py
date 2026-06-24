@@ -1,4 +1,4 @@
-#! usr/bin/python 3.15
+#!/usr/bin/env python3
 # Rodrigo Barber, November 2025
 
 # It is created a class named Mutations that creates and evaluates mutations in a DNA Ssequence of interest

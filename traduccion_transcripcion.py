@@ -1,4 +1,4 @@
-#! usr/bin/python 3.15
+#!/usr/bin/env python3
 # Rodrigo Barber, November 2025
 
 # It is created a class named Procesamiento_ADN which models the transcription and translation of a DNA sequence 

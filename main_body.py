@@ -1,4 +1,4 @@
-#! usr/bin/python 3.15
+#!/usr/bin/env python3
 # Rodrigo Barber, November 2025
 
 # It is imported all de classes required for the aplication

@@ -1,4 +1,4 @@
-#! usr/bin/python 3.15
+#!/usr/bin/env python3
 # Rodrigo Barber, October 2025
 
 # It is created a class named FastaReader with a method that can read a FASTA file and return the sequence

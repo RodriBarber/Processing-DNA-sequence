@@ -1,4 +1,4 @@
-#! usr/bin/python 3.15
+#!/usr/bin/env python3
 # Rodrigo Barber, October-November 2025
 
 # It is created a class named menu acting as a interface to interact with the user
